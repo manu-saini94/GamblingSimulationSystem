@@ -1,0 +1,3 @@
+public enum TransactionType {
+    INITIAL_STAKE, BET_WIN, BET_LOSS, DEPOSIT, WITHDRAWAL, ADJUSTMENT
+}
